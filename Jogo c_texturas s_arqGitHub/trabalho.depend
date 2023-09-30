@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1664829301 source:c:\users\trein\desktop\jogo c_texturas s_arqgithub\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664829281 source:c:\users\trein\desktop\jogo c_texturas s_arqgithub\funcoes.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664976421 source:c:\users\a_alc\onedrive\Área de trabalho\trabalhofinal-main\jogo c_texturas s_arqgithub\funcoes.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664993136 source:c:\users\a_alc\onedrive\Área de trabalho\trabalhofinal-main\jogo c_texturas s_arqgithub\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
